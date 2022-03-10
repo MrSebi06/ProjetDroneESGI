@@ -39,3 +39,4 @@ while continuer:
     pygame.draw.circle(fenetre, (0, 0, 0), pygame.mouse.get_pos(), 20)
     
     pygame.display.flip()
+    
